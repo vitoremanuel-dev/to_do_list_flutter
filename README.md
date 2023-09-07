@@ -1,16 +1,2 @@
-# to_do_list
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# To Do List em Flutter 💻
+Projeto criado para o Santander Bootcamp 2023 com o objetivo de pôr em prática os conhecimentos. Nesse To Do List você é capaz de adicionar o nome do que você tem à fazer, marcar como concluído ou não concluído, flitrar somente pelos não concluídos e remover itens da lista deslizando para esquerda ou direita.
