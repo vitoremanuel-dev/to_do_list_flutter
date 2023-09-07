@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:to_do_list/pages/to_do_list.dart';
+import 'package:to_do_list/pages/tarefa_page/tarefa_hive_page.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
